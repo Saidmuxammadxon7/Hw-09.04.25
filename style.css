@@ -1,0 +1,146 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 1440px;
+    height: 1024px;
+    background-color: #CD5D5D;
+    margin: 20px auto;
+}
+
+.span {
+    color: yellow;
+}
+
+.h1 {
+    font-size: 64px;
+    color: white;
+    text-align: center;
+}
+
+.p {
+    margin-right: 174px;
+    margin-left: 166px;
+    margin-top: 46px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 166px;
+    font-size: 40px;
+}
+
+.p a{
+    font-size: 25px;
+}
+
+.fotki {
+    width: 300px;
+    height: 300px;
+    margin-left: 166px;
+    margin-top: 23px;
+    background-color: black;
+    color: #FFFFFF;
+    text-align: center; 
+    gap: 100px;
+}
+
+.fotki img {
+    width: 100%;
+}
+
+.fotki h3 {
+    margin: 18px;
+}
+
+.fotki p {
+    margin: 18px;
+    color: #ffffff96;
+}
+
+
+.fotki1 {
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    margin-top: -299px;
+    background-color: black;
+    color: #ffff;
+    text-align: center;
+    gap: 100px; 
+}
+
+.fotki1 h3 {
+    margin: 18px;
+}
+
+.fotki1 p {
+    margin: 18px;
+    color: #ffffff96;
+}
+
+.fotki2 {
+    width: 300px;
+    height: 300px;
+    margin-left: 420px;
+    margin-top: -299px;
+    background-color: black;
+    color: #ffff;
+    text-align: center;
+    gap: 100px; 
+}
+
+.fotki2 h3 {
+    margin: 18px;
+}
+
+.fotki2 p {
+    margin: 18px;
+    color: #ffffff96;   
+}
+
+.fotki3{
+    width: 300px;
+    height: 300px;
+    margin-left: 166px;
+    margin-top: 100px;
+    background-color: black;
+    color: #ffff;
+    text-align: center;
+    gap: 100px; 
+}
+
+.fotki3 img {
+    width: 100%;
+}
+.fotki3 h3 {
+    margin: 18px;
+}
+
+.fotki3 p {
+    margin: 18px;
+    color: #ffffff96;
+}
+
+.fotki4{
+    width: 300px;
+    height: 300px;
+    margin-left: 435px;
+    margin-top: -319px;
+    background-color: black;
+    color: #ffff;
+    text-align: center;
+    gap: 100px; 
+}
+
+.fotki5 {
+    width: 300px;
+    height: 300px;
+    margin-left: 855px;
+    margin-top: -310px;
+    background-color: black;
+    color: #ffff;
+    text-align: center;
+    gap: 100px; 
+}
